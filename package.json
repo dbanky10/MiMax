@@ -1,0 +1,22 @@
+{
+  "name": "minmax",
+  "version": "1.0.0",
+  "description": "finding the minimum and maximum number in an array",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbanky10/MiMax.git"
+  },
+  "author": "Oluwabanke Fagbemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbanky10/MiMax/issues"
+  },
+  "homepage": "https://github.com/dbanky10/MiMax#readme"
+}
